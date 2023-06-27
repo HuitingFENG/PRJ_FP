@@ -68,3 +68,47 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
 2023.06.27 10:59:41 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
 2023.06.27 10:59:42 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
+2023.06.27 11:07:18 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:07:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
+juin 27, 2023 11:08:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.06.27 11:08:16 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:17 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:17 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.18s
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:16 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:17 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:08:17 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:08:18 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:08:18 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:08:17 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
+2023.06.27 11:08:18 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:08:18 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:13:20 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:20 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:13:22 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:22 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:13:24 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:24 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.17s
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:32 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.18s
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:32 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:32 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:13:32 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.15s
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:33 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:32 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
+2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:13:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.15s
+2023.06.27 11:13:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
