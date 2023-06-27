@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E163] Declaration Error: /Users/msaber/Documents/GitHub/PRJ_FP/src/main/scala/example/Hello.scala:5:6 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m  [33mdef[0m [36mrun[0m([36margs[0m: [35mList[String][0m): [35mZIO[zio.console.Console, Throwable, Int][0m =[0m
+[0m[[0m[31merror[0m] [0m[0m  |      [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |error overriding [33mmethod[0m [35mrun[0m in [33mtrait[0m [35mApp[0m of type (args: List[String]): zio.URIO[zio.ZEnv, zio.ExitCode];[0m
+[0m[[0m[31merror[0m] [0m[0m  |  [33mmethod[0m [35mrun[0m of type (args: List[String]): zio.ZIO[zio.console.Console, Throwable, Int] has incompatible type[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
