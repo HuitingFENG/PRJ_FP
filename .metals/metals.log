@@ -209,3 +209,7 @@ INFO: Unsupported notification method: $/setTrace
 2023.06.27 11:16:53 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.53s
 2023.06.27 11:17:33 INFO  compiling root (1 scala source)
 2023.06.27 11:17:34 INFO  time: compiled root in 1.1s
+juin 27, 2023 11:21:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+juin 27, 2023 11:21:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
