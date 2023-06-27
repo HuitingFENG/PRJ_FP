@@ -46,3 +46,7 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.06.27 10:02:26 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.36s
 2023.06.27 10:02:27 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
 2023.06.27 10:02:26 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.24s
+2023.06.27 10:09:30 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:09:31 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.27s
+2023.06.27 10:09:33 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:09:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.22s
