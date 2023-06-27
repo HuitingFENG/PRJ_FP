@@ -112,3 +112,100 @@ INFO: Unsupported notification method: $/setTrace
 2023.06.27 11:13:32 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
 2023.06.27 11:13:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.15s
 2023.06.27 11:13:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:14:12 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:12 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.15s
+2023.06.27 11:14:12 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:12 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:12 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
+2023.06.27 11:14:12 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:12 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:14:12 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:14:42 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:42 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:14:43 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:43 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 11:14:43 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.16s
+2023.06.27 11:14:43 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
+2023.06.27 11:14:53 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:40 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:40 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:40 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:40 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:42 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:52 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:52 INFO  running '/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/cm/w33tf_ts0ml96x7ww08brt9c0000gn/T/metals16581501367178326498/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.06.27 11:15:52 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/project/metals.sbt
+2023.06.27 11:15:52 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/project/project/metals.sbt
+2023.06.27 11:15:52 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:53 INFO  [info] welcome to sbt 1.8.3 (Oracle Corporation Java 20.0.1)
+2023.06.27 11:15:55 INFO  [info] loading settings for project prj_fp-build-build from metals.sbt ...
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:55 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:55 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 INFO  [info] loading project definition from /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/project/project
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:55 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:55 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:56 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:56 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:55 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:55 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:57 INFO  [info] loading settings for project prj_fp-build from metals.sbt ...
+2023.06.27 11:15:57 INFO  [info] loading project definition from /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/project
+2023.06.27 11:15:58 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:58 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:58 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:58 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:58 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:58 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:58 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:15:58 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:15:59 INFO  [success] Generated .bloop/prj_fp-build.json
+2023.06.27 11:15:59 INFO  [success] Total time: 2 s, completed 27 juin 2023, 11:16:00
+2023.06.27 11:16:00 INFO  [info] loading settings for project root from build.sbt ...
+2023.06.27 11:16:00 INFO  [info] set current project to sudoku-solver (in build file:/Users/fenghuiting/Desktop/PRJ_FP/prj_fp/)
+2023.06.27 11:16:02 INFO  [success] Generated .bloop/root-test.json
+2023.06.27 11:16:02 INFO  [success] Generated .bloop/root.json
+2023.06.27 11:16:02 INFO  [success] Total time: 2 s, completed 27 juin 2023, 11:16:02
+2023.06.27 11:16:03 INFO  time: ran 'sbt bloopInstall' in 10s
+2023.06.27 11:16:03 INFO  Attempting to connect to the build server...
+2023.06.27 11:16:03 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_341.jdk/Contents/Home defined at /Users/fenghuiting/.bloop/bloop.json
+2023.06.27 11:16:04 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:16:04 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:04 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:16:04 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:04 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:16:04 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:04 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/build.sbt
+2023.06.27 11:16:04 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/.metals/bsp.trace.json or /Users/fenghuiting/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.06.27 11:16:05 INFO  Attempting to connect to the build server...
+2023.06.27 11:16:05 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk1.8.0_341.jdk/Contents/Home defined at /Users/fenghuiting/.bloop/bloop.json
+2023.06.27 11:16:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/project/.metals/bsp.trace.json or /Users/fenghuiting/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.06.27 11:16:05 INFO  time: Connected to build server in 3.29s
+2023.06.27 11:16:05 INFO  Connected to Build server: Bloop v1.5.6
+2023.06.27 11:16:10 INFO  time: indexed workspace in 4.54s
+2023.06.27 11:16:11 INFO  compiling root (1 scala source)
+2023.06.27 11:16:15 INFO  time: code lens generation in 4.3s
+2023.06.27 11:16:16 INFO  time: compiled root in 4.57s
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:26 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:25 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:26 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:26 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:26 INFO  skipping build import with status 'Dismissed'
+2023.06.27 11:16:53 INFO  time: evaluated worksheet 'test.worksheet.sc' in 4.93s
+2023.06.27 11:16:53 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.53s
+2023.06.27 11:17:33 INFO  compiling root (1 scala source)
+2023.06.27 11:17:34 INFO  time: compiled root in 1.1s
