@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/Main.scala:5:11 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m zio.nio.file.{Path, Files}[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value nio is not a member of zio[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
