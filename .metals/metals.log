@@ -50,3 +50,21 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.06.27 10:09:31 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.27s
 2023.06.27 10:09:33 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
 2023.06.27 10:09:33 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.22s
+2023.06.27 10:09:47 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:09:48 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.21s
+2023.06.27 10:59:34 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:34 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.36s
+2023.06.27 10:59:35 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:35 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.33s
+2023.06.27 10:59:40 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:41 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
+2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:41 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
+2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:40 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.18s
+2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:41 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.23s
+2023.06.27 10:59:41 WARN  no build target for: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/test.worksheet.sc
+2023.06.27 10:59:41 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.2s
+2023.06.27 10:59:42 INFO  time: evaluated worksheet 'test.worksheet.sc' in 0.19s
