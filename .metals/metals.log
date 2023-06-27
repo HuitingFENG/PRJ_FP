@@ -8973,3 +8973,8 @@ package collection
 2023.06.27 13:55:22 INFO  skipping build import with status 'Installed'
 2023.06.27 13:56:48 INFO  skipping build import with status 'Installed'
 2023.06.27 13:56:49 INFO  skipping build import with status 'Installed'
+2023.06.27 14:24:56 INFO  Shutting down server
+2023.06.27 14:24:56 INFO  shutting down Metals
+2023.06.27 14:24:56 INFO  Shut down connection with build server.
+2023.06.27 14:24:56 INFO  Shut down connection with build server.
+2023.06.27 14:24:56 INFO  Exiting server
