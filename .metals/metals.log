@@ -213,3 +213,5 @@ juin 27, 2023 11:21:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint not
 INFO: Unsupported notification method: $/setTrace
 juin 27, 2023 11:21:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.06.27 11:38:32 INFO  compiling root (1 scala source)
+2023.06.27 11:38:32 INFO  time: compiled root in 0.62s
