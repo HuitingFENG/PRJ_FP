@@ -1,16 +1,22 @@
-package sudoku
-
 import zio._
+import zio.Console._
+import zio.json._
+import zio.nio.file.{Path, Files}
 
-object Main extends ZIOAppDefault {
+object Main extends zio.App {
 
-  def run: ZIO[Any, Throwable, Unit] =
+  def readJsonFile(path: String): ZIO[Any, Throwable, List[List[Option[Int]]]] =
     for {
-      _ <- Console.print("Enter the path to the JSON file containing the Sudoku problem:")
-      path <- Console.readLine
-      _ <-  Console.printLine(s"You entered: $path")
-      // Add your Sudoku solver logic here, utilizing ZIO and interacting with the ZIO Console
+      content <- Files.readAllBytes(Path(path))
+      sudoku <- ZIO.fromEither(content.fromJson[List[List[Option[Int]]]])
+    } yield sudoku
 
-      
+  def run: ZIO[zio.ZEnv, Throwable, Unit] =
+    for {
+      _ <- putStrLn("Enter the path to the JSON file containing the Sudoku problem:")
+      path <- getStrLn
+      _ <- putStrLn(s"You entered: $path")
+      sudoku <- readJsonFile(path)
+      // Use the 'sudoku' list in your Sudoku solver logic
     } yield ()
 }
