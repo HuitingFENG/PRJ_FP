@@ -1,19 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:4:11 -[0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m4 |[0m[33mimport[0m zio.nio.file.{Path, Files}[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value nio is not a member of zio[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:6:24 -[0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m6 |[0m[33mobject[0m [35mMain[0m [33mextends[0m zio.App {[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                    ^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m                    type App is not a member of zio[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:14:19 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m14 |[0m  [33mdef[0m [36mrun[0m: [35mZIO[0m[zio.ZEnv, [35mThrowable[0m, [35mUnit[0m] =[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m               ^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m               type ZEnv is not a member of zio[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:16:11 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m16 |[0m      _ <- putStrLn([31m"Enter the path to the JSON file containing the Sudoku problem:"[0m)[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m           ^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m           Not found: putStrLn[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
-[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:5:16 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m zio.json.syntax._[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value syntax is not a member of zio.json[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
