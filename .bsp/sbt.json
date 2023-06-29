@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-{"name":"sbt","version":"1.8.3","bspVersion":"2.1.0-M1","languages":["scala"],"argv":["/usr/local/Cellar/openjdk/20.0.1/libexec/openjdk.jdk/Contents/Home/bin/java","-Xms100m","-Xmx100m","-classpath","/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt-launch.jar","-Dsbt.script=/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt","xsbt.boot.Boot","-bsp"]}
-=======
-{"name":"sbt","version":"1.8.3","bspVersion":"2.1.0-M1","languages":["scala"],"argv":["/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/bin/java","-Xms100m","-Xmx100m","-classpath","/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt-launch.jar","-Dsbt.script=/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt","xsbt.boot.Boot","-bsp"]}
->>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d
+{"name":"sbt","version":"1.8.3","bspVersion":"2.1.0-M1","languages":["scala"],"argv":["/usr/local/Cellar/openjdk/20.0.1/libexec/openjdk.jdk/Contents/Home/bin/java","-Xms100m","-Xmx100m","-classpath","/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt-launch.jar","-Dsbt.script=/usr/local/Cellar/sbt/1.9.1/libexec/bin/sbt","xsbt.boot.Boot","-bsp"]} 
+
