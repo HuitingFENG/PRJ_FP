@@ -25,11 +25,9 @@ object Main extends ZIOAppDefault {
 
 
 
-//two functions, the first to read the json as chaine de caractere
-//the second to parse the chaine de caractere
+  // Two functions: the first to read the JSON as a string and the second to parse the string
 
-//two functions, the first to read the json as chaine de caractere
-//the second to parse the chaine de caractere
+
 
  
 
