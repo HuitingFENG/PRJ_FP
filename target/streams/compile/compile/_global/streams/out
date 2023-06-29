@@ -1,12 +1,69 @@
-<<<<<<< HEAD
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:5:16 -[0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m zio.json.syntax._[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value syntax is not a member of zio.json[0m
-=======
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /Users/fenghuiting/Desktop/PRJ_FP/prj_fp/src/main/scala/Main.scala:5:11 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m[33mimport[0m zio.nio.file.{Path, Files}[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m       ^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m  |[0m       value nio is not a member of zio[0m
->>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:6:0 -------------------[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m6 |[0m<<<<<<< HEAD[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mend of toplevel definition expected but identifier found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:18:8 ------------------[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:28:8 ------------------[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E018] Syntax Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:36:12 ---[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m<<<<<<< HEAD[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            expression expected but [31mend of statement[0m found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:47:8 ------------------[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m47 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m        ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m        Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:58:0 ----[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m58 |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m'}' expected, but eof found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:10:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m10 |[0m=======[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: =======[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:18:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: >>>>>>>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:24:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m<<<<<<< HEAD[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: <<<<<<<[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:28:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: >>>>>>>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:36:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m36 |[0m<<<<<<< HEAD[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: <<<<<<<[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:41:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m41 |[0m=======[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: =======[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /Users/msaber/PRJ_FP/src/main/scala/Main.scala:47:0 -[0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m47 |[0m>>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNot found: >>>>>>>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m13 errors found[0m

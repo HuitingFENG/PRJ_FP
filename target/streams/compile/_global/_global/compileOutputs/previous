@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 ["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/Users/msaber/PRJ_FP/target/scala-3.3.0/classes/Main$.class","/Users/msaber/PRJ_FP/target/scala-3.3.0/classes/Main.class","/Users/msaber/PRJ_FP/target/scala-3.3.0/zinc/inc_compile_3.zip"]]
-=======
-["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/Users/fenghuiting/Desktop/PRJ_FP/prj_fp/target/scala-3.3.0/classes/Main$.class","/Users/fenghuiting/Desktop/PRJ_FP/prj_fp/target/scala-3.3.0/classes/Main.class","/Users/fenghuiting/Desktop/PRJ_FP/prj_fp/target/scala-3.3.0/zinc/inc_compile_3.zip"]]
->>>>>>> 53ed905f934f7299ca63e55ed24a6707f3a6c46d
