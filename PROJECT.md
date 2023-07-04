@@ -36,6 +36,38 @@ Sudoku is a popular logic-based puzzle game played on a 9x9 grid. The grid is di
 | 3 | 4 | 5 | 2 | 8 | 6 | 1 | 7 | 9 |
 
 
+### Unresolved Sudoku Grid
+
+| <!-- -->| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |<!-- -->| <!-- --> | <!-- --> |
+{
+    "data": [
+        [null, null, 9, null, null, null, 1, null, null],
+        [null, null, null, 4, null, 5, null, null, null],
+        [8, null, null, null, 3, null, null, null, 2],
+        [null, 5, null, 1, null, 7, null, 6, null],
+        [null, null, 1, null, null, null, 3, null, null],
+        [null, 6, null, 5, null, 3, null, 7, null],
+        [1, null, null, null, 5, null, null, null, 9],
+        [null, null, null, 7, null, 4, null, null, null],
+        [null, null, 2, null, null, null, 8, null, null]
+    ]
+}
+
+### Solution
+| <!-- -->| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |<!-- -->| <!-- --> | <!-- --> |
+{
+    "data": [
+        [5, 4, 9, 8, 7, 2, 1, 3, 6],
+        [6, 2, 3, 4, 1, 5, 7, 9, 8],
+        [8, 1, 7, 6, 3, 9, 5, 4, 2],
+        [3, 5, 8, 1, 9, 7, 2, 6, 4],
+        [7, 9, 1, 2, 4, 6, 3, 8, 5],
+        [2, 6, 4, 5, 8, 3, 9, 7, 1],
+        [1, 7, 6, 3, 5, 8, 4, 2, 9],
+        [9, 8, 5, 7, 2, 4, 6, 1, 3],
+        [4, 3, 2, 9, 6, 1, 8, 5, 7]
+    ]
+}
 ## Expectations
 
 1. Data Structure: Design an appropriate data structure to represent the Sudoku problem and solution. Ensure the data structure supports immutability and functional programming principles where possible. You have adopt an iterative approach with solving the problem first and then improving the data structure and/or the other application features.
