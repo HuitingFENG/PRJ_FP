@@ -1,6 +1,19 @@
 import scala.collection.mutable
 
 object SudokuSolver {
+
+  def isSolvable(sudoku: List[List[Option[Int]]]): Boolean = {
+    val board = Array.ofDim[Int](9, 9)
+    for {
+      row <- 0 until 9
+      col <- 0 until 9
+    } {
+      sudoku(row)(col).foreach(board(row)(col) = _)
+    }
+    solve(board)
+  }
+
+  
   // Function to solve the Sudoku game by replacing null values
   def solveSudoku(sudoku: List[List[Option[Int]]]): List[List[Int]] = {
     val board = Array.ofDim[Int](9, 9)

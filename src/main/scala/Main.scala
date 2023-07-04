@@ -53,6 +53,9 @@ object Main extends ZIOAppDefault {
       jsonString <- readJsonString(path)
       //_ <- displayJsonData(jsonString)
       sudoku <- parseSudoku(jsonString)
+      // Check if the Sudoku puzzle is solvable
+      isSolvable <- ZIO.succeed(SudokuSolver.isSolvable(sudoku))
+      _ <- if (isSolvable) ZIO.unit else ZIO.fail(new RuntimeException("Unsolvable Sudoku puzzle"))
       _ <- displaySudokuTable(sudoku)
       // Use the 'sudoku' list in your Sudoku solver logic
       solvedSudoku = SudokuSolver.solveSudoku(sudoku)
